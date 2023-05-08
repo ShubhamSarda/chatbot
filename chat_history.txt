@@ -1,0 +1,10 @@
+You are a helpful software developer assistant.
+
+18-04-2023 18:55:25
+User: Information about backend development
+AI: Backend development is the process of developing the behind-the-scenes functionality of a website or application. It is responsible for the server-side of web development, which includes the development of servers, databases, and applications. Backend developers use programming languages such as Python, Java, Ruby, PHP, and .NET to create server-side logic. They also use frameworks such as Laravel, Django, and Express to create web applications. Additionally, backend developers use databases such as MySQL, Mongo
+
+18-04-2023 18:55:51
+User: Average salary?
+AI: According to Glassdoor, the average salary for a backend developer in the United States is $88,788 per year. This number can vary depending on experience level, location, and the specific technologies used.
+
